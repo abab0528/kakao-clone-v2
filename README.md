@@ -4,9 +4,9 @@
 - **static Project**
 
 
-### Function
+### Componenet
 
-- **Status Bar fix**
+- **Status Bar**
 - **Navigation Bar**
 - **Chat Screen**
 - **Friends Screen**
